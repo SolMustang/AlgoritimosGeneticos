@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class\Constants.cs" />
+    <Compile Include="Class\Individuo.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
